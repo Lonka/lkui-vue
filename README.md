@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=5QV9wVc8c7g
 
+https://ithelp.ithome.com.tw/users/20139636/ironman/3890?page=3
+
+https://github.com/peterroe/uspin
+
+https://lzomedia.com/blog/publishing-a-component-library-with-vite-vue-3-and-typescript-to-npm/
+
+https://github.com/oruga-ui/oruga/tree/develop/packages/oruga-next
+
 # Vue 3 + Typescript + Vite
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
